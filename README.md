@@ -5,6 +5,6 @@ Profile_프로필
 읽고 수정하고 따라써본 프로필 페이지입니다.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zz1n)](https://github.com/zz1n/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zz1n&layout=compact)](https://github.com/zz1n/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zz1n&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zz1n&count_private=true&include_all_commits=true)
